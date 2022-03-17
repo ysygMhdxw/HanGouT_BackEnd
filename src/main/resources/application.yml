@@ -6,4 +6,4 @@ spring:
     password: rootHGT@5
 
 server:
-  port:
+  port: 8082
